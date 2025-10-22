@@ -43,6 +43,8 @@ Community Circles (working names include CircleHub, Commons, Hearth, Orbit, Conf
 - **Real-time:** WebSockets for chat and WebRTC SFU (LiveKit/Janus/mediasoup) for voice.
 - **Eventing & Observability:** Kafka/Redpanda event bus, feature flags, and OpenTelemetry instrumentation.
 
+For deeper implementation details, see the [Community Circles Platform Stack](docs/STACK.md) guide.
+
 ## Trust, Safety, and Compliance
 - Consistent enforcement of community guidelines across free and paid spaces.
 - AI-assisted moderation with human-in-the-loop controls, role-based permissions, and rate limiting.
